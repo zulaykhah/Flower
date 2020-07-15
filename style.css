@@ -1,0 +1,71 @@
+body,html{
+    font-family: Roboto !important;
+}
+.bg-brown{
+    background-color: #562900 !important;
+}
+.text-brown{
+    color: #562900 !important;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #562900 !important;
+}
+.flowerbay{
+    padding-top: 40vh;
+}
+.main4{
+    background-color:#F8F8F8 ;
+}
+/* footer */
+.link{
+    display: block !important;
+    text-decoration: none !important;
+    color: white !important;
+    list-style-type: none;
+}
+.button{
+    position: absolute;
+    right: 5px;
+    bottom: 17px;
+
+}
+ /* .carouselslide {
+    margin: 1.5rem;
+    color: black;
+  }
+  .carousel-inner {
+    height: auto;
+  }
+  
+  .carousel-control-prev {
+    margin-left: -100px;
+    color: black;
+  }
+  
+  .carousel-control-next {
+    margin-right: -100px;
+    color: black;
+  }
+   
+   .carousel-control-prev, .carousel-control-next {
+    position: inherit;
+} */
+ /* .carousel-control-prev, .carousel-control-next {
+    position: absolute;
+    left: 100%;
+    right: 100%;
+    top: 20.83%;
+    bottom: 20.83%;
+    color: black;
+}  */
+ .right{
+    color: #562900 !important;
+    margin-left: 220px !important;
+}
+.left{
+    color: #562900 !important;
+    margin-right: 220px !important;
+} 
